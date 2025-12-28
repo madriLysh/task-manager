@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+venv/
+.env
+.env.*
+
+# SQLite DB
+*.db
+*.sqlite3
+todo.db
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Python packaging
+dist/
+build/
+*.egg-info/
